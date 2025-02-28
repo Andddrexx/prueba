@@ -247,7 +247,7 @@ function App() {
       className="min-h-screen bg-cover bg-center"
       style={{
         backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), 
-        url('https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&q=60&w=800')`,
+        url('https://github.com/Andddrexx/prueba/blob/main/LOGO%20.webp')`,
       }}
     >
       <div className="max-w-3xl mx-auto px-3 py-6">
